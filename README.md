@@ -1,4 +1,4 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/ea68c8ac-35b6-4a61-9205-dc93f890c19e)## Hi there 👋
 
 <!--
 **ParkSangwook-bit/ParkSangwook-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ParkSangwook-bit GitHub stats](https://github-readme-stats.vercel.app/api?[![ParkSangwook-bit GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/ParkSangwook-bit/github-readme-stats)
+
